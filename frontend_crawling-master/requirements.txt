@@ -6,7 +6,7 @@ cffi==1.12.1
 Click==7.0
 colorama==0.4.1
 constantly==15.1.0
-cryptography==2.5
+cryptography==3.2
 cssselect==1.0.3
 Flask==1.0.2
 future==0.17.1
